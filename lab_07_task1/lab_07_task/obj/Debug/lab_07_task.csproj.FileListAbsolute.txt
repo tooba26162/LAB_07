@@ -1,0 +1,10 @@
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\bin\Debug\lab_07_task.exe.config
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\bin\Debug\lab_07_task.exe
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\bin\Debug\lab_07_task.pdb
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.Form1.resources
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.Properties.Resources.resources
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.csproj.GenerateResource.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.exe
+C:\Users\Pakistan Traders\source\repos\lab_07_task\lab_07_task\obj\Debug\lab_07_task.pdb
