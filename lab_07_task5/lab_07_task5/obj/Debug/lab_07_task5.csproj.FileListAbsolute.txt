@@ -1,0 +1,10 @@
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\bin\Debug\lab_07_task5.exe.config
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\bin\Debug\lab_07_task5.exe
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\bin\Debug\lab_07_task5.pdb
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.Form1.resources
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.Properties.Resources.resources
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.csproj.GenerateResource.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.exe
+C:\Users\Pakistan Traders\source\repos\lab_07_task5\lab_07_task5\obj\Debug\lab_07_task5.pdb
