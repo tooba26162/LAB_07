@@ -1,0 +1,10 @@
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\bin\Debug\welcome_activity.exe.config
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\bin\Debug\welcome_activity.exe
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\bin\Debug\welcome_activity.pdb
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.Form1.resources
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.Properties.Resources.resources
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.csproj.GenerateResource.cache
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.exe
+C:\Users\Pakistan Traders\source\repos\welcome_activity\welcome_activity\obj\Debug\welcome_activity.pdb
