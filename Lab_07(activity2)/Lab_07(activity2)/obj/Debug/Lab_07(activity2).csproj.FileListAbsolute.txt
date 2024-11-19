@@ -1,0 +1,10 @@
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\bin\Debug\Lab_07(activity2).exe.config
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\bin\Debug\Lab_07(activity2).exe
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\bin\Debug\Lab_07(activity2).pdb
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07(activity2).csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07_activity2_.Form1.resources
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07_activity2_.Properties.Resources.resources
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07(activity2).csproj.GenerateResource.cache
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07(activity2).csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07(activity2).exe
+C:\Users\Pakistan Traders\source\repos\Lab_07(activity2)\Lab_07(activity2)\obj\Debug\Lab_07(activity2).pdb
